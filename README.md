@@ -1,6 +1,8 @@
+<!--
 <div align="center">
-  */<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a1a4e,100:4f46e5&height=200&section=header&text=Angel%20Gonzales&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%26%20Data%20Analyst%20%7C%20Peru%20%F0%9F%87%B5%F0%9F%87%AA&descAlignY=58&descSize=16" width="100%" alt="header"/>
-</div>*/
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a1a4e,100:4f46e5&height=200&section=header&text=Angel%20Gonzales&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%26%20Data%20Analyst%20%7C%20Peru%20%F0%9F%87%B5%F0%9F%87%AA&descAlignY=58&descSize=16" width="100%" alt="header"/>
+</div>
+-->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=720&lines=Frontend+Developer+%F0%9F%8E%A8;Data+Analyst+%F0%9F%93%8A;Turning+data+into+beautiful+interfaces+%E2%9C%A8;React+%7C+Vue+%7C+Python+%7C+Power+BI" alt="Typing SVG" />
